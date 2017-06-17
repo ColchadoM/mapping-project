@@ -2,7 +2,7 @@
   'use strict'
 
   // WebSocket
-  var wsURL = 'ws://localhost:1881';
+  var wsURL = 'ws://172.20.10.4:1881';
   var connection;
 
   function onClickBtn(event) {

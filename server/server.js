@@ -53,7 +53,7 @@ broadcast({
       data : from.id
     });
   } else {
-outputClients.push(connection);
+outputClients.push(from);
   }
 }
 
